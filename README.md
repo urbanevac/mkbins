@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is an app for Milton Keynes residents, informing them of what bin(s) to put out for rubbish collection based on the date.
 
 ## Getting Started
 
